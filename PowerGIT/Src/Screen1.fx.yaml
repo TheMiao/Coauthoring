@@ -1,0 +1,8 @@
+Screen1 As screen:
+
+    Label1 As label:
+        Text: ="Hello World!"
+        X: =645
+        Y: =35
+        ZIndex: =1
+
