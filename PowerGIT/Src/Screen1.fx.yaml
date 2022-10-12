@@ -6,3 +6,9 @@ Screen1 As screen:
         Y: =35
         ZIndex: =1
 
+    Button1 As button:
+        Text: ="Click Me"
+        X: =615
+        Y: =220
+        ZIndex: =2
+
