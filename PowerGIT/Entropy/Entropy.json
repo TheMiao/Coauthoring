@@ -3,29 +3,32 @@
   "ControlUniqueGuids": {},
   "ControlUniqueIds": {
     "App": 1,
-    "Button1": 5,
-    "Gallery1": 6,
-    "galleryTemplate1": 7,
-    "Image1": 8,
+    "Button1": 12,
+    "Gallery1": 5,
+    "galleryTemplate1": 6,
+    "Image1": 7,
     "Label1": 4,
-    "NextArrow1": 11,
+    "NextArrow1": 9,
     "Screen1": 3,
-    "Separator1": 12,
+    "Separator1": 11,
     "Subtitle1": 10,
-    "Title1": 9
+    "Title1": 8
   },
   "FunctionParamsInvariantScripts": {},
   "FunctionParamsInvariantScriptsOnInstances": {},
-  "HeaderLastSavedDateTimeUTC": "10/14/2022 15:04:40",
+  "HeaderLastSavedDateTimeUTC": "10/15/2022 03:16:51",
   "IsLegacyComponentAllowGlobalScopeCase": false,
-  "LocalConnectionIDReferences": {},
+  "LocalConnectionIDReferences": {
+    "90b5f520-5945-4496-925e-221e605aa8bc": "\"/providers/microsoft.powerapps/apis/shared_office365users/connections/ab856d458bce443d9540b8babefb19fb\""
+  },
   "LocalDatabaseReferencesAsEmpty": false,
   "LocalResourceFileNames": {},
   "LocalResourceRootPaths": {},
   "OrderComponentMetadata": {},
   "OrderComponentTemplate": {},
   "OrderDataSource": {
-    "CustomGallerySample": 0
+    "CustomGallerySample": 1,
+    "Office365Users": 0
   },
   "OrderGroupControls": {},
   "OrderPcfTemplate": {},
@@ -57,13 +60,18 @@
   "RuleScreenIdWithoutScreen": {},
   "TemplateVersions": {},
   "VolatileProperties": {
-    "AnalysisLoadTime": 0.0462221,
+    "AnalysisLoadTime": 0.1312532,
     "ControlCount": {
       "button": 1,
-      "label": 1,
+      "gallery": 1,
+      "galleryTemplate": 1,
+      "icon": 1,
+      "image": 1,
+      "label": 3,
+      "rectangle": 1,
       "screen": 1
     },
-    "DeserializationLoadTime": 0.0845872,
+    "DeserializationLoadTime": 0.4809345,
     "ErrorCount": 0
   },
   "WasLocalDatabaseReferencesEmpty": true
