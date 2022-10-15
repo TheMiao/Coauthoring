@@ -3,21 +3,25 @@
   "ControlUniqueGuids": {},
   "ControlUniqueIds": {
     "App": 1,
-    "Button1": 12,
-    "Gallery1": 5,
-    "galleryTemplate1": 6,
-    "Image1": 7,
+    "Button1": 13,
+    "Gallery1": 6,
+    "galleryTemplate1": 7,
+    "Image1": 8,
     "Label1": 4,
-    "Label2": 13,
-    "NextArrow1": 9,
+    "Label2": 5,
+    "LeftSideContainer1": 16,
+    "NextArrow1": 10,
+    "RightSideContainer1": 17,
     "Screen1": 3,
-    "Separator1": 11,
-    "Subtitle1": 10,
-    "Title1": 8
+    "Screen2": 14,
+    "ScreenContainer1": 15,
+    "Separator1": 12,
+    "Subtitle1": 11,
+    "Title1": 9
   },
   "FunctionParamsInvariantScripts": {},
   "FunctionParamsInvariantScriptsOnInstances": {},
-  "HeaderLastSavedDateTimeUTC": "10/15/2022 03:17:23",
+  "HeaderLastSavedDateTimeUTC": "10/15/2022 03:21:47",
   "IsLegacyComponentAllowGlobalScopeCase": false,
   "LocalConnectionIDReferences": {
     "90b5f520-5945-4496-925e-221e605aa8bc": "\"/providers/microsoft.powerapps/apis/shared_office365users/connections/ab856d458bce443d9540b8babefb19fb\""
@@ -37,6 +41,7 @@
   "OrderXMLTemplate": {
     "button": 5,
     "gallery": 1,
+    "groupContainer": 6,
     "icon": 3,
     "image": 2,
     "label": 0,
@@ -50,8 +55,12 @@
     "Image1": 3,
     "Label1": 0,
     "Label2": 0,
+    "LeftSideContainer1": 0,
     "NextArrow1": 5,
+    "RightSideContainer1": 0,
     "Screen1": 0,
+    "Screen2": 0,
+    "ScreenContainer1": 0,
     "Separator1": 7,
     "Subtitle1": 6,
     "Title1": 4
@@ -62,18 +71,18 @@
   "RuleScreenIdWithoutScreen": {},
   "TemplateVersions": {},
   "VolatileProperties": {
-    "AnalysisLoadTime": 0.1312532,
+    "AnalysisLoadTime": 0.1832116,
     "ControlCount": {
       "button": 1,
       "gallery": 1,
       "galleryTemplate": 1,
       "icon": 1,
       "image": 1,
-      "label": 3,
+      "label": 4,
       "rectangle": 1,
       "screen": 1
     },
-    "DeserializationLoadTime": 0.4809345,
+    "DeserializationLoadTime": 0.7520648,
     "ErrorCount": 0
   },
   "WasLocalDatabaseReferencesEmpty": true
