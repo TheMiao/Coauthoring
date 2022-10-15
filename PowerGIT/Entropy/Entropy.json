@@ -8,6 +8,7 @@
     "galleryTemplate1": 6,
     "Image1": 7,
     "Label1": 4,
+    "Label2": 13,
     "NextArrow1": 9,
     "Screen1": 3,
     "Separator1": 11,
@@ -16,7 +17,7 @@
   },
   "FunctionParamsInvariantScripts": {},
   "FunctionParamsInvariantScriptsOnInstances": {},
-  "HeaderLastSavedDateTimeUTC": "10/15/2022 03:16:51",
+  "HeaderLastSavedDateTimeUTC": "10/15/2022 03:17:09",
   "IsLegacyComponentAllowGlobalScopeCase": false,
   "LocalConnectionIDReferences": {
     "90b5f520-5945-4496-925e-221e605aa8bc": "\"/providers/microsoft.powerapps/apis/shared_office365users/connections/ab856d458bce443d9540b8babefb19fb\""
@@ -48,6 +49,7 @@
     "galleryTemplate1": 2,
     "Image1": 3,
     "Label1": 0,
+    "Label2": 0,
     "NextArrow1": 5,
     "Screen1": 0,
     "Separator1": 7,

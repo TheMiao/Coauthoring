@@ -79,3 +79,9 @@ Screen1 As screen:
             Y: =Parent.TemplateHeight - 1
             ZIndex: =5
 
+    Label2 As label:
+        Text: ="Hello IBM"
+        X: =925
+        Y: =35
+        ZIndex: =4
+
